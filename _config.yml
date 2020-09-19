@@ -6,3 +6,5 @@ description: >
   Lorem Ipsum
 
 show_excerpts: false
+
+theme: jekyll-theme-minimal
