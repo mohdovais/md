@@ -1,6 +1,3 @@
----
-title: Wonderful Lorem Ipsum
----
 
 ## What is Lorem Ipsum?
 
